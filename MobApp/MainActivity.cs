@@ -23,7 +23,7 @@ namespace MobApp
             SetContentView(Resource.Layout.layoutWebsiteDesign);
 
             browser = FindViewById<WebView>(Resource.Id.webView1);
-            browser.LoadUrl("https://adminpanel.javelupango.com/");
+            browser.LoadUrl("https://codelife.javelupango.com/");
             //Toolbar toolbar = FindViewById<Toolbar>(Resource.Id.toolbar);
             //SetSupportActionBar(toolbar);
 
